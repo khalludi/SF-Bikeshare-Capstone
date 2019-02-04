@@ -1,0 +1,10 @@
+README
+
+I have created a regression model to predict the amount of trips that will take place in the San Francisco Bay Area.
+
+Libraries:
+    pandas
+    matplotlib
+    scikit-learn
+    
+The dataset that I used should be included. If not, you can download it here: https://www.kaggle.com/benhamner/sf-bay-area-bike-share
